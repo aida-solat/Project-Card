@@ -1,5 +1,6 @@
 {
   "name": "project-card",
+  "homepage": "https://aida-solat.github.io/Project-Card/",
   "version": "1.0.0",
   "description": "Project Card",
   "keywords": [],
@@ -16,7 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
