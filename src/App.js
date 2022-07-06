@@ -14,6 +14,7 @@ const Page = styled.div`
   min-height: -webkit-fill-available; /* mobile viewport bug fix */
   overflow-x: auto;
   scroll-behavior: smooth;
+ 
 `;
 
 const Grid = styled.div`
@@ -44,7 +45,7 @@ const Grid = styled.div`
 export default function App() {
   return (
     <Page>
-      <Badge fixed>Axeptio Project Card</Badge>
+      <Badge fixed>Project Card</Badge>
       <Grid>
         {websites.map((website, index) => (
           <Card
