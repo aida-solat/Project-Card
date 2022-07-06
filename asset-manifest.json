@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Project-Card/static/js/main.7949d900.chunk.js",
-    "main.js.map": "/Project-Card/static/js/main.7949d900.chunk.js.map",
+    "main.js": "/Project-Card/static/js/main.f7d7c13d.chunk.js",
+    "main.js.map": "/Project-Card/static/js/main.f7d7c13d.chunk.js.map",
     "runtime~main.js": "/Project-Card/static/js/runtime~main.e32fa535.js",
     "runtime~main.js.map": "/Project-Card/static/js/runtime~main.e32fa535.js.map",
     "static/js/2.b9adc3d7.chunk.js": "/Project-Card/static/js/2.b9adc3d7.chunk.js",
     "static/js/2.b9adc3d7.chunk.js.map": "/Project-Card/static/js/2.b9adc3d7.chunk.js.map",
     "index.html": "/Project-Card/index.html",
-    "precache-manifest.c70c822a515e62818ea4d6faf457f5f1.js": "/Project-Card/precache-manifest.c70c822a515e62818ea4d6faf457f5f1.js",
+    "precache-manifest.71a223bab59222140f9cd8afac35e989.js": "/Project-Card/precache-manifest.71a223bab59222140f9cd8afac35e989.js",
     "service-worker.js": "/Project-Card/service-worker.js"
   }
 }
